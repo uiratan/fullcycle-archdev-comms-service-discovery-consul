@@ -4,5 +4,6 @@
     "bootstrap_expect":3,
     "data_dir":"/tmp",
     "retry_join":["172.21.0.2", "172.21.0.3"],
-    "node_name":"consulserver03"
+    "node_name":"consulserver03",
+    "encrypt":"89v/7m2xCQG7LHq2nWABHE+objLqgQXdfqq+DzmK5wY="
 }
