@@ -5,5 +5,5 @@
     "data_dir":"/tmp",
     "retry_join":["172.21.0.2"],
     "node_name":"consulserver02",
-    "encrypt":"89v/7m2xCQG7LHq2nWABHE+objLqgQXdfqq+DzmK5wY="
+    "encrypt":"do3Xk+8H6jV6eFqZ9luYCLQMnjDTezmkeNg/0uUcArs="
 }
